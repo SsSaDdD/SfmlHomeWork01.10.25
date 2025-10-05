@@ -1,0 +1,3 @@
+/Users/aleksandrholin/folders/Cpp/Lesson8Sfml/cmake-build-debug/CMakeFiles/sfml_app.dir
+/Users/aleksandrholin/folders/Cpp/Lesson8Sfml/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleksandrholin/folders/Cpp/Lesson8Sfml/cmake-build-debug/CMakeFiles/rebuild_cache.dir

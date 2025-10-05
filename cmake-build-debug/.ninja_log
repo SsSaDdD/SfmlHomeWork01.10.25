@@ -1,0 +1,10 @@
+# ninja log v6
+7	609	1759658351557156093	CMakeFiles/sfml_app.dir/main.cpp.o	259a9aaff4bf945a
+8	666	1759658351557861630	CMakeFiles/sfml_app.dir/Player.cpp.o	e8cd3343e818c323
+666	711	1759658352215977111	sfml_app	31d24be6b51ec1d
+9	720	1759333183141884157	CMakeFiles/sfml_app.dir/Map.cpp.o	5d75ea1dfc0b18b9
+3	82	1759658548074059567	build.ninja	7484e45730eaad9a
+5	698	1759658548090058504	CMakeFiles/sfml_app.dir/main.cpp.o	259a9aaff4bf945a
+6	715	1759658548090734791	CMakeFiles/sfml_app.dir/Class/Map/Map.cpp.o	9780836d96bce2bd
+6	736	1759658548090522293	CMakeFiles/sfml_app.dir/Class/Player/Player.cpp.o	a7532aa0b32c83b3
+736	859	1759658548821063800	sfml_app	6ad6d2ed2c29a1e4

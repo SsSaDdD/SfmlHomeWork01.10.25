@@ -1,0 +1,7 @@
+.DB_Store
+.idea
+.Ds_Store
+cmake-build-debug/.DS_Store
+Class/.DS_Store
+Class/Player/.DS_Store
+Class/Map/.DS_Store
